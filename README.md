@@ -2,7 +2,7 @@
 
 A Flutter app that detects objects in real time through the device camera and draws labeled bounding boxes over them. Inference runs fully on-device using [LiteRT](https://ai.google.dev/edge/litert) (formerly TensorFlow Lite) via the [`flutter_litert`](https://pub.dev/packages/flutter_litert) package, so no internet connection or server is needed.
 
-> This project integrates a **pretrained** detection model into a Flutter app. The model itself was not trained by me; see [Model and credits](#model-and-credits).
+> This project integrates a **pretrained** detection model into a Flutter app. The model itself was not trained by me, see [Model and credits](#model-and-credits).
 
 ## Screenshots
 
