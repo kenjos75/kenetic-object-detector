@@ -9,7 +9,7 @@ A Flutter app that detects objects in real time through the device camera and dr
 <!-- Replace these with your own screenshots or a demo GIF, e.g. put files in a docs/ folder -->
 | Splash | Detection |
 | --- | --- |
-| ![Splash](docs/splash.png) | ![Detection](docs/detection.png) |
+| ![Splash](docs/splash.jpg) | ![Detection](docs/detection.jpg) |
 
 ## Features
 
