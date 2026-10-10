@@ -113,7 +113,7 @@ In `android/app/build.gradle.kts`, make sure the minimum SDK is at least 24:
 
 ```kotlin
 defaultConfig {
-    minSdk = maxOf(flutter.minSdkVersion, 24)
+    minSdk = 24
 }
 ```
 
