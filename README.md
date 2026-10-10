@@ -66,7 +66,7 @@ lib/
 ├── services/
 │   └── detector_service.dart       # Loads the model, runs inference
 └── widgets/
-    └── box_painter.dart            # DetectionPainter: draws the boxes
+    └── custom_box_painter.dart            # CustomBoxPainter: draws the boxes
 assets/
 ├── detect.tflite                   # Detection model
 └── labelmap.txt                    # Class names, one per line
